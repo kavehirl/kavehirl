@@ -10,6 +10,8 @@
 
 </br>
 
-***Thank you , [@charactersofpt](https://github.com/charactersofpt) !***
+👑 Titles 👑
+
+[CharactersOfPt](https://github.com/charactersofpt) — Pony Town's Kaveh 🏛
 
 </div>
