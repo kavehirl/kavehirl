@@ -14,6 +14,6 @@
 
 [CharactersOfPt](https://github.com/charactersofpt) — Pony Town's Kaveh 🏛
 
-[PonyTown-Yumes](https://github.com/ponytown-yumes) — THE Alhaitham Yume 🌱❤️‍🔥
+[PonyTown-Yumes](https://github.com/ponytown-yumes) — Pony Town's Alhaitham Yume 🌱❤️‍🔥
 
 </div>
